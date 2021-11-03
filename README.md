@@ -7,3 +7,4 @@ Data Science Portfolio
 * Selecting cryptocurrencies from the dropdown lists automatically updates the price chart and tweet sentiment analysis.
 * The tool dynamically brings in 24 hours worth of historical data using the Coinbase Pro API python library cbpro.
 * Using tweepy, tool dynamically brings in the most recent 100 tweets and who tweeted, their follower count, and the Positive/Neutral/Negative sentiment analysis of their tweet using TextBlob.
+![Crytpo screenshot](https://user-images.githubusercontent.com/34782953/140014540-3509be2b-fc76-4cb6-a38b-c79ceb5402d1.png)
