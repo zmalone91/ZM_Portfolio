@@ -1,7 +1,7 @@
 # ZM_Portfolio
 Data Science Portfolio
 
-# Project 1 - Cryptocurrency Comparison and Sentiment Analysis Tool: Project Overview
+# [Project 1 - Cryptocurrency Comparison and Sentiment Analysis Tool: Project Overview](https://github.com/zmalone91/Crypto_Sentiment)
 * Created a web app using python dash to compare prices between two cryptocurrencies side-by-side and simultaneously search tweets about the cryptocurrencies to perform a basic negative/positive sentiment analysis.
 * Dash web application houses the data and includes a dropdown list of all current products available on Coinbase Pro that have a USD trading pair.
 * Selecting cryptocurrencies from the dropdown lists automatically updates the price chart and tweet sentiment analysis.
