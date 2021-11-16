@@ -22,7 +22,7 @@ Data Science Portfolio
 ![Sentiment_Page](https://user-images.githubusercontent.com/34782953/141826079-e901f7a7-0f59-49f2-a7bd-5c729c9bec7b.png)<br>
 <br>
 
-# [Project 3 - Machine Learning_Toolkit - Regression Models](https://github.com/zmalone91/ML_Toolkit)
+# [Project 3 - Machine Learning Toolkit - Regression Models](https://github.com/zmalone91/ML_Toolkit)
 Analysis and Education tool for different ML algorithms and parameter tuning!
 
 * Interactive Web App using Streamlit to play around with some of the common algorithm types in Machine Learning. Including Linear Regression Polynomial Regression, SVR, Decision Tree/Random Forest Regression and penalty/regularization options with L1 - LassoCV, L2 - RidgeCV, and ElasticNetCV. <br>
