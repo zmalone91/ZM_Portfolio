@@ -3,9 +3,10 @@ Hello! I am a Data Scientist in the managed healthcare space, specializing in Me
 <br>
 
 # [Project 1 - 2021 Stack Overflow Survey Salary Prediction Model](https://github.com/zmalone91/Developer_Salary)
+Predict your salary as a developer with just a few simple input parameters!<br>
 
 * Data from the 2021 Stack Overflow Annual Developer Survey - https://insights.stackoverflow.com/survey
-* Interactive web app using streamlit to predict Developer salaries based on input criteria of country, education level, and years of coding experience.<br>
+* Interactive web app using Streamlit to predict Developer salaries based on input criteria of country, education level, and years of coding experience.<br>
 * The Jupyter notebook includes the data preprocessing and cleaning process as well as an evaluation and grid search of Regression algorithms.<br>
 * The model with the best score-to-resource consumption ended up being a Decision Tree Regressor with max_depth = 10. Linear regression, polynomial regression, L1 Lasso, L2 Ridge, and Random Forest regressors were all evaluated but Decision Tree ended up being the most suitable choice.<br>
 <br>
@@ -14,6 +15,8 @@ Hello! I am a Data Scientist in the managed healthcare space, specializing in Me
 <br>
 
 # [Project 2 - NASDAQ Time Series Forecasting and Sentiment Analysis WebApp using Streamlit](https://github.com/zmalone91/Stock_Prediction)
+Pull current stock price data using yfinance to analyze, forecast, and gauge social media sentiment!<br>
+
 * Interactive web app using Streamlit to pull stock price data for the top 100 NASDAQ stocks from 2015 to present.<br>
 * The purpose of the app is to perform a simple Time Series forecast using fbprophet on tech stocks as well as analyzing the recent trading activity and overall trend with YTD candelstick charts.<br>
 * There is also an additional Sentiment Report page that utilizes the free Twitter API via Tweepy to perform an analysis on the recent tweets surrounding a specific stock.<br><br>
@@ -24,7 +27,7 @@ Hello! I am a Data Scientist in the managed healthcare space, specializing in Me
 <br>
 
 # [Project 3 - Machine Learning Toolkit - Regression Models](https://github.com/zmalone91/ML_Toolkit)
-Analysis and Education tool for different ML algorithms and parameter tuning!
+Analysis and Education tool for different ML algorithms and parameter tuning!<br>
 
 * Interactive Web App using Streamlit to play around with some of the common algorithm types in Machine Learning. Including Linear Regression Polynomial Regression, SVR, Decision Tree/Random Forest Regression and penalty/regularization options with L1 - LassoCV, L2 - RidgeCV, and ElasticNetCV. <br>
 * The model is both practical and educational as it allows you to see the impact of tuning paremeters to your RMSE and R2 scores. Using PCA, the 2 main component features are graphed for a visual representation of the data transformed into just 2 dimensions. <br>
