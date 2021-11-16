@@ -14,9 +14,9 @@ Hello! I am a Data Scientist in the managed healthcare space, specializing in Me
 <br>
 
 # [Project 2 - NASDAQ Time Series Forecasting and Sentiment Analysis WebApp using Streamlit](https://github.com/zmalone91/Stock_Prediction)
-* Interactive web app using streamlit to pull stock price data for the top 100 NASDAQ stocks from 2015 to present.<br>
-* The purpose of the app is to perform a simple Time Series forecast using fbprophet on tech stocks as well as analyzing the recent trading activity and overall trend with YTD candelstick charts. <br>
-* There is also an additional Sentiment Report page that utilizes the free Twitter API via Tweepy to perform an analysis on the recent tweets surrounding a specific stock. <br><br>
+* Interactive web app using Streamlit to pull stock price data for the top 100 NASDAQ stocks from 2015 to present.<br>
+* The purpose of the app is to perform a simple Time Series forecast using fbprophet on tech stocks as well as analyzing the recent trading activity and overall trend with YTD candelstick charts.<br>
+* There is also an additional Sentiment Report page that utilizes the free Twitter API via Tweepy to perform an analysis on the recent tweets surrounding a specific stock.<br><br>
 ![Forecast_Page_1](https://user-images.githubusercontent.com/34782953/141825954-ff8c391a-063f-4c67-96e8-1991dc0dac4e.png)<br>
 ![Forecast_Page_2](https://user-images.githubusercontent.com/34782953/141826018-2674a5ba-995b-423a-bba1-ac7aa5992f89.png)<br>
 <br><br><br>
