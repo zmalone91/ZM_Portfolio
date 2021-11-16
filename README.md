@@ -18,7 +18,7 @@ Data Science Portfolio
 * There is also an additional Sentiment Report page that utilizes the free Twitter API via Tweepy to perform an analysis on the recent tweets surrounding a specific stock. <br><br>
 ![Forecast_Page_1](https://user-images.githubusercontent.com/34782953/141825954-ff8c391a-063f-4c67-96e8-1991dc0dac4e.png)<br>
 ![Forecast_Page_2](https://user-images.githubusercontent.com/34782953/141826018-2674a5ba-995b-423a-bba1-ac7aa5992f89.png)<br>
-<br>
+<br><br><br>
 ![Sentiment_Page](https://user-images.githubusercontent.com/34782953/141826079-e901f7a7-0f59-49f2-a7bd-5c729c9bec7b.png)<br>
 <br>
 # [Project 3 - Cryptocurrency Comparison and Sentiment Analysis WebApp using Dash: Project Overview](https://github.com/zmalone91/Crypto_Sentiment)
