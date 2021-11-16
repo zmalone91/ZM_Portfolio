@@ -7,6 +7,7 @@ Data Science Portfolio
 * Interactive web app using streamlit to predict Developer salaries based on input criteria of country, education level, and years of coding experience..<br>
 * The Jupyter notebook includes the data preprocessing and cleaning process as well as an evaluation and grid search of Regression algorithms.<br>
 * The model with the best score-to-resource consumption ended up being a Decision Tree Regressor with max_depth = 10. Linear regression, polynomial regression, L1 Lasso, L2 Ridge, and Random Forest regressors were all evaluated but Decision Tree ended up being the most suitable choice.<br>
+<br>
 <img width="593" alt="Salary_Predict_1" src="https://user-images.githubusercontent.com/34782953/141933850-a99b2d78-a484-41a1-9911-5ab3c3d4a9f9.png"><br>
 <img width="542" alt="Salary_Predict_2" src="https://user-images.githubusercontent.com/34782953/141933865-d248a219-0cf7-40bf-9db2-65d153971887.png"><br>
 <br>
@@ -17,8 +18,9 @@ Data Science Portfolio
 * There is also an additional Sentiment Report page that utilizes the free Twitter API via Tweepy to perform an analysis on the recent tweets surrounding a specific stock. <br><br>
 ![Forecast_Page_1](https://user-images.githubusercontent.com/34782953/141825954-ff8c391a-063f-4c67-96e8-1991dc0dac4e.png)<br>
 ![Forecast_Page_2](https://user-images.githubusercontent.com/34782953/141826018-2674a5ba-995b-423a-bba1-ac7aa5992f89.png)<br>
+<br>
 ![Sentiment_Page](https://user-images.githubusercontent.com/34782953/141826079-e901f7a7-0f59-49f2-a7bd-5c729c9bec7b.png)<br>
-
+<br>
 # [Project 3 - Cryptocurrency Comparison and Sentiment Analysis WebApp using Dash: Project Overview](https://github.com/zmalone91/Crypto_Sentiment)
 * Created a web app using python dash to compare prices between two cryptocurrencies side-by-side and simultaneously search tweets about the cryptocurrencies to perform a basic negative/positive sentiment analysis.
 * The purpose of the app is to assist in short-term trading strategy by getting a feel of the most recent price trends and feelings on Twitter.
