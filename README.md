@@ -1,5 +1,5 @@
 # Zack Malone Data Science and Machine Learning Portfolio
-Hello! I am a Data Scientist in the managed healthcare space, specializing in Medical, Pharmacy, and Membership financial analytics. Below are a few fun projects that incorporate forecasting, social media data, and different ways to view and modify machine learning parameters.
+Hello! I am a Data Scientist in the managed healthcare space, specializing in Medical, Pharmacy, and Membership financial analytics. Below are a few fun projects that incorporate forecasting with stock prices, extracting social media data, and different ways to visualize and fine tune machine learning parameters.
 <br>
 
 # [Project 1 - 2021 Stack Overflow Survey Salary Prediction Model](https://github.com/zmalone91/Developer_Salary)
