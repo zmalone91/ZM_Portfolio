@@ -11,7 +11,7 @@ Data Science Portfolio
 <img width="542" alt="Salary_Predict_2" src="https://user-images.githubusercontent.com/34782953/141933865-d248a219-0cf7-40bf-9db2-65d153971887.png"><br>
 <br>
 
-# [Project 1 - NASDAQ Time Series Forecasting and Sentiment Analysis WebApp using Streamlit](https://github.com/zmalone91/Stock_Prediction)
+# [Project 2 - NASDAQ Time Series Forecasting and Sentiment Analysis WebApp using Streamlit](https://github.com/zmalone91/Stock_Prediction)
 * Interactive web app using streamlit to pull stock price data for the top 100 NASDAQ stocks from 2015 to present.<br>
 * The purpose of the app is to perform a simple Time Series forecast using fbprophet on tech stocks as well as analyzing the recent trading activity and overall trend with YTD candelstick charts. <br>
 * There is also an additional Sentiment Report page that utilizes the free Twitter API via Tweepy to perform an analysis on the recent tweets surrounding a specific stock. <br><br>
@@ -19,7 +19,7 @@ Data Science Portfolio
 ![Forecast_Page_2](https://user-images.githubusercontent.com/34782953/141826018-2674a5ba-995b-423a-bba1-ac7aa5992f89.png)<br>
 ![Sentiment_Page](https://user-images.githubusercontent.com/34782953/141826079-e901f7a7-0f59-49f2-a7bd-5c729c9bec7b.png)<br>
 
-# [Project 2 - Cryptocurrency Comparison and Sentiment Analysis WebApp using Dash: Project Overview](https://github.com/zmalone91/Crypto_Sentiment)
+# [Project 3 - Cryptocurrency Comparison and Sentiment Analysis WebApp using Dash: Project Overview](https://github.com/zmalone91/Crypto_Sentiment)
 * Created a web app using python dash to compare prices between two cryptocurrencies side-by-side and simultaneously search tweets about the cryptocurrencies to perform a basic negative/positive sentiment analysis.
 * The purpose of the app is to assist in short-term trading strategy by getting a feel of the most recent price trends and feelings on Twitter.
 * Dash web application houses the data and includes a dropdown list of all current products available on Coinbase Pro that have a USD trading pair.
