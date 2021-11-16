@@ -1,4 +1,4 @@
-<h3>Zack Malone Data Science and Machine Learning Portfolio</h3> <br>
+<h3>Zack Malone Data Science and Machine Learning Portfolio</h3> 
 Hello! I am a Data Scientist in the managed healthcare space, specializing in Medical, Pharmacy, and Membership financial analytics. Below are a few fun projects that incorporate forecasting with stock prices, extracting social media data, and different ways to visualize and fine tune machine learning parameters.
 <br>
 
