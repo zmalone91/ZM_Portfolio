@@ -1,6 +1,16 @@
 # ZM_Portfolio
 Data Science Portfolio
 
+# [Project 1 - 2021 Stack Overflow Survey Salary Prediction Model](https://github.com/zmalone91/Developer_Salary)
+
+* Data from the 2021 Stack Overflow Annual Developer Survey - https://insights.stackoverflow.com/survey
+* Interactive web app using streamlit to predict Developer salaries based on input criteria of country, education level, and years of coding experience..<br>
+* The Jupyter notebook includes the data preprocessing and cleaning process as well as an evaluation and grid search of Regression algorithms.<br>
+* The model with the best score-to-resource consumption ended up being a Decision Tree Regressor with max_depth = 10. Linear regression, polynomial regression, L1 Lasso, L2 Ridge, and Random Forest regressors were all evaluated but Decision Tree ended up being the most suitable choice.<br>
+<img width="593" alt="Salary_Predict_1" src="https://user-images.githubusercontent.com/34782953/141933850-a99b2d78-a484-41a1-9911-5ab3c3d4a9f9.png"><br>
+<img width="542" alt="Salary_Predict_2" src="https://user-images.githubusercontent.com/34782953/141933865-d248a219-0cf7-40bf-9db2-65d153971887.png"><br>
+<br>
+
 # [Project 1 - NASDAQ Time Series Forecasting and Sentiment Analysis WebApp using Streamlit](https://github.com/zmalone91/Stock_Prediction)
 * Interactive web app using streamlit to pull stock price data for the top 100 NASDAQ stocks from 2015 to present.<br>
 * The purpose of the app is to perform a simple Time Series forecast using fbprophet on tech stocks as well as analyzing the recent trading activity and overall trend with YTD candelstick charts. <br>
