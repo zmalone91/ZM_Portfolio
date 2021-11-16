@@ -21,11 +21,14 @@ Data Science Portfolio
 <br><br><br>
 ![Sentiment_Page](https://user-images.githubusercontent.com/34782953/141826079-e901f7a7-0f59-49f2-a7bd-5c729c9bec7b.png)<br>
 <br>
-# [Project 3 - Cryptocurrency Comparison and Sentiment Analysis WebApp using Dash: Project Overview](https://github.com/zmalone91/Crypto_Sentiment)
-* Created a web app using python dash to compare prices between two cryptocurrencies side-by-side and simultaneously search tweets about the cryptocurrencies to perform a basic negative/positive sentiment analysis.
-* The purpose of the app is to assist in short-term trading strategy by getting a feel of the most recent price trends and feelings on Twitter.
-* Dash web application houses the data and includes a dropdown list of all current products available on Coinbase Pro that have a USD trading pair.
-* Selecting cryptocurrencies from the dropdown lists automatically updates the price chart and tweet sentiment analysis.
-* The tool dynamically brings in 24 hours worth of historical data using the Coinbase Pro API python library cbpro.
-* Using tweepy, tool dynamically brings in the most recent 100 tweets and who tweeted, their follower count, and the Positive/Neutral/Negative sentiment analysis of their tweet using TextBlob. <br><br>
-![Crytpo screenshot](https://user-images.githubusercontent.com/34782953/140014540-3509be2b-fc76-4cb6-a38b-c79ceb5402d1.png)
+
+# [Project 3 - Machine Learning_Toolkit - Regression Models](https://github.com/zmalone91/ML_Toolkit)
+Analysis and Education tool for different ML algorithms and parameter tuning!
+
+* Interactive Web App using Streamlit to play around with some of the common algorithm types in Machine Learning. Including Linear Regression Polynomial Regression, SVR, Decision Tree/Random Forest Regression and penalty/regularization options with L1 - LassoCV, L2 - RidgeCV, and ElasticNetCV. <br>
+* The model is both practical and educational as it allows you to see the impact of tuning paremeters to your RMSE and R2 scores. Using PCA, the 2 main component features are graphed for a visual represnetation of the data transformed into just 2 dimensions. <br>
+<br>
+![Toolkit_1](https://user-images.githubusercontent.com/34782953/142034224-c3a80b7e-5f5e-4491-95d1-5feceee1a932.png)<br>
+<br>
+![Toolkit_2](https://user-images.githubusercontent.com/34782953/142034268-a542fd3b-59ff-479c-9650-ef1d99258be1.png)
+
