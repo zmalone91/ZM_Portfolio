@@ -5,7 +5,7 @@ Hello! I am a Data Scientist in the managed healthcare space, specializing in Me
 # [Project 1 - 2021 Stack Overflow Survey Salary Prediction Model](https://github.com/zmalone91/Developer_Salary)
 
 * Data from the 2021 Stack Overflow Annual Developer Survey - https://insights.stackoverflow.com/survey
-* Interactive web app using streamlit to predict Developer salaries based on input criteria of country, education level, and years of coding experience..<br>
+* Interactive web app using streamlit to predict Developer salaries based on input criteria of country, education level, and years of coding experience.<br>
 * The Jupyter notebook includes the data preprocessing and cleaning process as well as an evaluation and grid search of Regression algorithms.<br>
 * The model with the best score-to-resource consumption ended up being a Decision Tree Regressor with max_depth = 10. Linear regression, polynomial regression, L1 Lasso, L2 Ridge, and Random Forest regressors were all evaluated but Decision Tree ended up being the most suitable choice.<br>
 <br>
@@ -27,7 +27,7 @@ Hello! I am a Data Scientist in the managed healthcare space, specializing in Me
 Analysis and Education tool for different ML algorithms and parameter tuning!
 
 * Interactive Web App using Streamlit to play around with some of the common algorithm types in Machine Learning. Including Linear Regression Polynomial Regression, SVR, Decision Tree/Random Forest Regression and penalty/regularization options with L1 - LassoCV, L2 - RidgeCV, and ElasticNetCV. <br>
-* The model is both practical and educational as it allows you to see the impact of tuning paremeters to your RMSE and R2 scores. Using PCA, the 2 main component features are graphed for a visual represnetation of the data transformed into just 2 dimensions. <br>
+* The model is both practical and educational as it allows you to see the impact of tuning paremeters to your RMSE and R2 scores. Using PCA, the 2 main component features are graphed for a visual representation of the data transformed into just 2 dimensions. <br>
 <br>
 ![Toolkit_1](https://user-images.githubusercontent.com/34782953/142034224-c3a80b7e-5f5e-4491-95d1-5feceee1a932.png)<br>
 <br>
