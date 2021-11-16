@@ -15,7 +15,7 @@ Predict your salary as a developer with just a few simple input parameters!<br>
 <br>
 
 # [Project 2 - NASDAQ Time Series Forecasting and Sentiment Analysis WebApp using Streamlit](https://github.com/zmalone91/Stock_Prediction)
-Pull current stock price data using yfinance to analyze, forecast, and gauge social media sentiment!<br>
+Pull current stock price data using yfinance to analyze, forecast, and gauge social media sentiment.<br>
 
 * Interactive web app using Streamlit to pull stock price data for the top 100 NASDAQ stocks from 2015 to present.<br>
 * The purpose of the app is to perform a simple Time Series forecast using fbprophet on tech stocks as well as analyzing the recent trading activity and overall trend with YTD candelstick charts.<br>
@@ -27,7 +27,7 @@ Pull current stock price data using yfinance to analyze, forecast, and gauge soc
 <br>
 
 # [Project 3 - Machine Learning Toolkit - Regression Models](https://github.com/zmalone91/ML_Toolkit)
-Analysis and Education tool for different ML algorithms and parameter tuning!<br>
+Analysis and Education tool for different ML algorithms and parameter tuning.<br>
 
 * Interactive Web App using Streamlit to play around with some of the common algorithm types in Machine Learning. Including Linear Regression Polynomial Regression, SVR, Decision Tree/Random Forest Regression and penalty/regularization options with L1 - LassoCV, L2 - RidgeCV, and ElasticNetCV. <br>
 * The model is both practical and educational as it allows you to see the impact of tuning paremeters to your RMSE and R2 scores. Using PCA, the 2 main component features are graphed for a visual representation of the data transformed into just 2 dimensions. <br>
